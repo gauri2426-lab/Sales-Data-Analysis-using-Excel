@@ -1,7 +1,3 @@
-Here's a cleaned-up and professionally formatted version of the README for **Vrinda Store Annual Report 20202 - Dashboard**. You can copy and paste it with the formatting preserved:
-
----
-
 # Vrinda Store Annual Report 20202 – Dashboard README
 
 This document provides an overview of the **Vrinda Store Annual Report 20202 Dashboard**, developed in Microsoft Excel. The dashboard delivers actionable insights into sales performance, customer demographics, order trends, and channel contributions to support data-driven decision-making.
