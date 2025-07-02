@@ -1,6 +1,6 @@
-# Vrinda Store Annual Report 20202 – Dashboard README
+# Vrinda Store Annual Report 2022 – Dashboard README
 
-This document provides an overview of the **Vrinda Store Annual Report 20202 Dashboard**, developed in Microsoft Excel. The dashboard delivers actionable insights into sales performance, customer demographics, order trends, and channel contributions to support data-driven decision-making.
+This document provides an overview of the **Vrinda Store Annual Report 2022 Dashboard**, developed in Microsoft Excel. The dashboard delivers actionable insights into sales performance, customer demographics, order trends, and channel contributions to support data-driven decision-making.
 
 ---
 
